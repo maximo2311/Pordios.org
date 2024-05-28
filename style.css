@@ -1,0 +1,184 @@
+body{
+    box-sizing: border-box;
+    background-color: hsl(54, 100%, 86%);
+    text-align: center;
+    font-family: Arial, Comic Sans MS;
+    margin: 0 auto;
+}
+
+header h1 {
+    height: 57%;
+    font-size: 130px;
+    color:rgb(0, 0, 0);
+    font-weight: bold;
+    font-family: Segoe Print;
+    background-color: #ECFF45;
+    width: 100%;
+    margin-top: 0%;
+    margin-bottom: 0px;
+    text-align: center;
+    padding: 0%;
+}
+
+nav {
+    background-color: #EAEC4B;
+    height: 28%;
+    margin: 1px 0px;
+    border: 1px solid black;
+}
+
+nav ul{
+    list-style: none;
+    height: 28%;
+    padding: 0;
+    margin: 0;
+}
+
+nav li {
+    display: inline-block;
+    padding: 20px 160px;
+    font-size: 30px;
+    border: 7px solid black;
+    margin: 0px -9px;
+
+}
+
+nav a{
+    color: black;
+    text-decoration: none;
+}
+
+#señora {
+    position: absolute;
+    left: 6%;
+    top: 68%;
+    height: 96%;
+}
+header p {
+    text-align: left;
+    font-size: 20px;
+    font-family: Comic Sans MS;
+    margin: 30px;
+}
+
+p {
+    margin: 2% 45% 5% 22%;
+    text-align: justify;
+    font-size: 25px;
+}
+
+#introduccion h1 {
+    font-size: 56px;
+    text-align: right;
+    font-family: Segoe Print;
+    margin: 0% 30%;
+}
+#introduccion p {
+    margin: 2% 5% 55% 35%;
+    text-align: left;
+}
+.Mago {
+    position: absolute;
+    top: 120%;
+    right: 10%;
+    height: 0%;
+}
+.Mago p {
+    font-size: 37px;
+    font-family: 'Times New Roman';
+    margin:-5% 5%;
+}
+.Mago a {
+    text-decoration: none;
+    color: red;
+}
+h1 {
+    position: relative;
+    font-size: 56px;
+    text-align: left;
+    font-family: Segoe Print;
+    padding-left: 3.8cm;
+}
+
+main {
+    font-family: Comic Sans MS;
+}
+
+#ojo img {
+    height: 57%;
+    position: absolute;
+    top: 173%;
+    left: 10%;
+}
+/*hsl(41, 81%, 61%)*/
+h2 {
+    font-size: 43px;
+    margin: 5% 60% 0% 20%;
+    background-color: hsl(41, 81%, 61%);
+    border-radius: 5%;
+    padding: 2px 2px;
+}
+
+#gei {
+    font-size: 19px;
+    margin: 0% 60% 0% 0%;
+    padding-left: 20%;
+}
+h3 {
+    font-size: 34px;
+    margin: 4% 45% 2% 22%;
+}
+ul {
+    list-style-type: none;
+}
+
+#valores {
+    margin: 2% 30% 3% 18%;
+}
+
+#valores li {
+    display: inline-block;
+    margin: 5%;
+    font-size: 20px;
+    background-color: #E282CB;
+    border: 2px solid #E282CB;
+    padding: 4px;
+    border-radius: 3px;
+    translate: 0.5;
+}
+
+#lulu img {
+    height: 300px;
+    position: absolute;
+    top: 245%;
+    right: 10%;
+}
+#pizza img {
+    height: 50%;
+    position: absolute;
+    top: 370%;
+    right: 3%;
+}
+
+#Olas img{
+    height: 50%;
+    position: absolute;
+    top: 580%;
+    right: 3%;
+}
+.Gatos {
+    position: absolute;
+    top: 1100%;
+    right: 3%;
+    height: 45%;
+}
+.Gatos h1 {
+    font-size: 20px;
+    margin:-5% 0% 0% 45%;
+}
+.Gatos img {
+    margin-right: -65%;
+}
+#gat {
+    height: 20%;
+}
